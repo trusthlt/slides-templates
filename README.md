@@ -1,18 +1,20 @@
 # slides-templates
 TrustHLT templates for slides in LaTeX and other formats
 
+## RUB fonts
 
-
-## Slides template for LaTeX beamer
-
-### Install RUB fonts
-
-I've prepared a shell script which downloads the TTF files and installs them
+All versions of thetemplate use the RUB fonts, so you need to install them first. For Latex, there's even a script
 
 ```bash
 $ chmod +x install-rub-fonts.sh
 $ ./install-rub-fonts.sh
 ```
+
+## Slides template for PowerPoint/OnlyOffice
+
+Tested with OnlyOffice desktop edition on Ubuntu ( https://www.onlyoffice.com/download-desktop )
+
+## Slides template for LaTeX beamer
 
 ### Necessary LaTeX packages
 
