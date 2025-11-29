@@ -14,6 +14,28 @@ $ ./install-rub-fonts.sh
 
 Tested with OnlyOffice desktop edition on Ubuntu ( https://www.onlyoffice.com/download-desktop )
 
+Creating a new presentation is super easy, first open the template, click to add the title slide
+
+![screenshot](powerpoint-template/screenshots/screenshot1.jpg)
+
+Right click on the left to add the next regular slide ("New slide")
+
+![screenshot](powerpoint-template/screenshots/screenshot2.jpg)
+
+Under "Insert" -> "Header & Footer" change the footer to your name and talk title
+
+![screenshot](powerpoint-template/screenshots/screenshot3.jpg)
+
+And "Apply to all" so it gets properly rendered (on the regular slides)
+
+![screenshot](powerpoint-template/screenshots/screenshot4.jpg)
+
+and continue doing whatever you want.
+
+![screenshot](powerpoint-template/screenshots/screenshot5.jpg)
+
+There is an example file `trusthlt-slides-example1.pptx` and its PDF rendered version `trusthlt-slides-example1.pdf`.
+
 ## Slides template for LaTeX beamer
 
 ### Necessary LaTeX packages
