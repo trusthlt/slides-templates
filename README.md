@@ -3,7 +3,7 @@ TrustHLT templates for slides in LaTeX and other formats
 
 ## RUB fonts
 
-All versions of thetemplate use the RUB fonts, so you need to install them first. For Latex, there's even a script
+All versions of the template use the RUB fonts, so you need to install them first. For Latex, there's even a script
 
 ```bash
 $ chmod +x install-rub-fonts.sh
